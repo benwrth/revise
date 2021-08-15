@@ -25,13 +25,13 @@
   border-color: #1c1c1c;
 }
 .color-theme-2 .dropdown-menu .dropdown-caret .caret-inner {
-  border-bottom: 9px solid #2d3143;
+  border-bottom: 9px solid #1c1c1c;
 }
 .color-theme-2 .dropdown-menu .buttons {
-  border-color: #272a3a;
+  border-color: #1c1c1c;
 }
 .color-theme-2 .dropdown-menu .button {
-  color: #62677f;
+  color: #212529;
 }
 .color-theme-2 .dropdown-menu .button:hover {
   color: #f4f4f5;
@@ -53,10 +53,10 @@
 }
 .book.color-theme-2 .book-body {
   color: #bdcadb;
-  background: #1c1f2b;
+  background: #1c1c1c;
 }
 .book.color-theme-2 .book-body .page-wrapper .page-inner section {
-  background: #1c1f2b;
+  background: #1c1c1c;
 }
 .book.font-size-0 .book-body .page-inner section {
   font-size: 1.2rem;
@@ -143,37 +143,37 @@
 }
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal h1,
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal h2 {
-  border-color: #373b4e;
+  border-color: #1c1c1c;
 }
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal h6 {
-  color: #373b4e;
+  color: #1c1c1c;
 }
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal hr {
-  background-color: #373b4e;
+  background-color: #1c1c1c;
 }
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal blockquote {
-  border-color: #373b4e;
+  border-color: #1c1c1c;
 }
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal pre,
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal code {
   color: #9dbed8;
-  background: #2d3143;
-  border-color: #2d3143;
+  background: #1c1c1c;
+  border-color: #1c1c1c;
 }
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal .highlight {
-  background-color: #282a39;
+  background-color: #1c1c1c;
 }
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal table th,
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal table td {
-  border-color: #3b3f54;
+  border-color: #1c1c1c;
 }
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal table tr {
   color: #b6c2d2;
-  background-color: #2d3143;
-  border-color: #3b3f54;
+  background-color: #1c1c1c;
+  border-color: #212529;
 }
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal table tr:nth-child(2n) {
-  background-color: #35394b;
+  background-color: #212529;
 }
 .book.color-theme-1 .book-header {
   color: #afa790;
@@ -194,7 +194,7 @@
   background: transparent;
 }
 .book.color-theme-2 .book-header .btn {
-  color: #3b3f54;
+  color: #212529;
 }
 .book.color-theme-2 .book-header .btn:hover {
   color: #fffff5;
@@ -210,7 +210,7 @@
   color: #73553c;
 }
 .book.color-theme-2 .book-body .navigation {
-  color: #383f52;
+  color: #212529;
 }
 .book.color-theme-2 .book-body .navigation:hover {
   color: #fffff5;
