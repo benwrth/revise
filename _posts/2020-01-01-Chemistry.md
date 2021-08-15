@@ -11,7 +11,7 @@ This is where the page content goes.
 
 With more content below it
 
-## Required Practicals
+## <u>Required Practicals<u>
 
 The following are all practicals that you **must** learn as a random selection of them will be bought up in the GCSE, and knowledge of the principals is needed for other questions.
 
