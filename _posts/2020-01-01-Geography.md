@@ -7,10 +7,18 @@ layout: post
 
 This is where the page content goes.
 
-## Poem Name
+# <u>Physical Geography<u>
 
-With more content below it
+AQA physical geography spec revision notes
 
-## Poem Name
+### Title
 
-With even more content below it
+With content below it
+
+# <u>Human Geography<u>
+
+AQA human geography spec revision notes
+
+### Title
+
+With content below it
