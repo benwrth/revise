@@ -9,7 +9,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://revise.wrth.me'
-baseurl:          ''
+baseurl:          '/revise'
 rss:              RSS
 
 toc:
@@ -30,6 +30,8 @@ kramdown:
     guess_lang:           true
 
 markdown_ext:     markdown,mkdown,mkdn,mkd,md
+
+remote_theme: GitBook
 
 # Permalinks
 permalink:        /:title:output_ext
