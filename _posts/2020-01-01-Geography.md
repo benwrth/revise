@@ -7,7 +7,7 @@ layout: post
 
 This is where the page content goes.
 
-# <u>Physical Geography<u>
+# <u>Physical Geography</u>
 
 AQA physical geography spec revision notes
 
@@ -15,7 +15,7 @@ AQA physical geography spec revision notes
 
 With content below it
 
-# <u>Human Geography<u>
+# <u>Human Geography</u>
 
 AQA human geography spec revision notes
 
