@@ -8,13 +8,13 @@ layout: post
 This is where the page content goes.
 
 ## Title
--
+
 With more content below it
 
 # Required Practicals
--
+
 The following are all practicals that you **must** learn as a random selection of them will be bought up in the GCSE, and knowledge of the principals is needed for other questions.
 
 ## Practical Name
--
+
 Practical Content
