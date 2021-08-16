@@ -7,6 +7,8 @@ layout: post
 
 This is where the page content goes.
 
+## Lessons
+
 ### Title
 
 With more content below it
