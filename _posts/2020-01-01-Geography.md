@@ -7,18 +7,18 @@ layout: post
 
 This is where the page content goes.
 
-# <u>Physical Geography</u>
+## Physical Geography
 
 AQA physical geography spec revision notes
 
-### Title
+### Topic
 
 With content below it
 
-# <u>Human Geography</u>
+## Human Geography
 
 AQA human geography spec revision notes
 
-### Title
+### Another Topic
 
 With content below it
