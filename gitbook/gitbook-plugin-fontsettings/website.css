@@ -268,7 +268,7 @@
   border: 1px solid transparent;
 }
 .book.color-theme-2 .book-summary ul.summary li.divider {
-  background: #272a3a;
+  background: #c1c6d7;
   box-shadow: none;
 }
 .book.color-theme-2 .book-summary ul.summary li i.fa-check {
@@ -286,6 +286,6 @@
 .book.color-theme-2 .book-summary ul.summary li.active > a,
 .book.color-theme-2 .book-summary ul.summary li a:hover {
   color: #f4f4f5;
-  background: #282c30;
+  background: #393c3f;
   font-weight: 600;
 }
