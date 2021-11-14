@@ -38,6 +38,9 @@ html {
 body {
   margin: 0;
 }
+h6 {
+  color: #666666;
+}
 a:focus {
   outline: thin dotted;
 }
