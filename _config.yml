@@ -31,7 +31,7 @@ kramdown:
 
 markdown_ext:     markdown,mkdown,mkdn,mkd,md
 
-remote_theme: GitBook
+remote_theme: just-the-docs/just-the-docs
 
 # Permalinks
 permalink:        /:title:output_ext
